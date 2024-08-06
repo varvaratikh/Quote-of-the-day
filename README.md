@@ -64,13 +64,16 @@ The project consists of a client application built with React and a server built
 
 ### Running the Application
   
-    Start both client and server: npm start
-    Start client only: npm run client
-    Start server only: npm run server
+Start both client and server: 
+        `npm start`
+Start client only: 
+        `npm run client`
+Start server only: 
+        `npm run server`
 
 ## Contact
 
 For any inquiries or feedback, please contact:
 
-    ### Name: @varvaratikh
-    ### Email: frontendworking@gmail.com
+     Name: @varvaratikh
+     Email: frontendworking@gmail.com
