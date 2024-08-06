@@ -1,0 +1,1 @@
+Copyright 2020 The Kapakana Project Authors (https://github.com/nagamaki008/kapakana)
