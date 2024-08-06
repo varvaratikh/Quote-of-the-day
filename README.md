@@ -64,11 +64,13 @@ The project consists of a client application built with React and a server built
 
 ### Running the Application
   
-Start both client and server: 
+Start both client and server: \
         `npm start`
-Start client only: 
+
+Start client only: \
         `npm run client`
-Start server only: 
+
+Start server only: \
         `npm run server`
 
 ## Contact
